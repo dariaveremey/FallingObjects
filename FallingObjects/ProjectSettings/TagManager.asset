@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Basket
+  - LostZone
+  - Subject
+  - NegativeEffects
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - LostZone
+  - Basket
+  - Diamonds
+  - Subject
+  - TopWall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2861924439
+    locked: 0
+  - name: Subjects
+    uniqueID: 2131031109
+    locked: 0
+  - name: Basket
+    uniqueID: 2390181063
+    locked: 0
